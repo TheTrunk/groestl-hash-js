@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/quantumexplorer/groestl-hash-js.git"
+    "url": "https://github.com/TheTrunk/groestl-hash-js.git"
   },
   "keywords": [
     "groestl"
@@ -19,7 +19,7 @@
   "author": "quantumexplorer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/quantumexplorer/groestl-hash-js/issues"
+    "url": "https://github.com/TheTrunk/groestl-hash-js/issues"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
